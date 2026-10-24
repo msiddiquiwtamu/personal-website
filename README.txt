@@ -1,6 +1,7 @@
-Mohammad Siddiqui personal academic website — Version 5
-Open index.html in a browser. Navigation links open separate pages.
-The approved MS logo appears in the header and footer, and a monogram favicon is included.
-This is a local prototype; the existing faridhaque.com site has not been changed.
+SEO Metadata Update — Mohammad Siddiqui
 
-V7: Homepage revised with more personal first-person introduction; existing About, Research, Projects, Publications, Teaching and Contact pages retained.
+Only these seven HTML pages have been updated. No layout, copy or CSS was intentionally changed.
+
+To publish: open your GitHub personal-website repository; upload these seven HTML files into the repository ROOT (same location as index.html); commit the change, replacing the seven existing files. Do not upload the ZIP as a file.
+
+Changes: unique page titles, meta descriptions, canonical URLs, and Open Graph preview metadata.
